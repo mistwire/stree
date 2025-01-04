@@ -1,8 +1,5 @@
 # stree
-stree is a recursive directory listing command for S3 buckets
-
-# s3-tree-app
-s3-tree-app is a command line application that mimics the functionality of the `tree` command, specifically for listing the contents of S3 buckets in a tree-like format.
+stree is a command line application that mimics the functionality of the `tree` command, specifically for listing the contents of S3 buckets in a tree-like format.
 
 ## Project Structure
 

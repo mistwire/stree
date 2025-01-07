@@ -1,7 +1,3 @@
-def connect_to_s3():
-    import boto3
-    return boto3.client('s3')
-
 def list_bucket_contents(s3, bucket_name):
     contents = []
     paginator = s3.get_paginator('list_objects_v2')
